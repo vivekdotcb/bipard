@@ -1,0 +1,2 @@
+[12-Sep-2024 22:50:08 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::terms() in /home4/sachar/public_html/gr-v2/app/Controllers/Home.php on line 34
+[12-Sep-2024 22:50:09 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::terms() in /home4/sachar/public_html/gr-v2/app/Controllers/Home.php on line 34
